@@ -1,0 +1,28 @@
+Test 
+Number of Questions: 4
+Question number 1:
+MultiChoiceQuestion: 
+text=do you like object oriented class?
+1) Answer [text=no]
+2) Answer [text=i don't know]
+3) Answer [text=None of the above]
+4) Answer [text=More than one answer]
+
+Question number 2:
+MultiChoiceQuestion: 
+text=do you like koala?
+1) Answer [text=David]
+2) Answer [text=None of the above]
+3) Answer [text=More than one answer]
+
+Question number 3:
+MultiChoiceQuestion: 
+text=do you like yourself?
+1) Answer [text=big yes yes]
+2) Answer [text=None of the above]
+3) Answer [text=More than one answer]
+
+Question number 4:
+OpenQuestion: 
+text=what is your lecturer's name?
+
